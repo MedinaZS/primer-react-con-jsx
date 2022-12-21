@@ -1,5 +1,5 @@
 {
-  "homepage":"https://medinazs.github.io/primer-react-con-jsx/",
+  "homepage": "https://medinazs.github.io/primer-react-con-jsx/",
   "name": "primer-react-con-jsx",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
